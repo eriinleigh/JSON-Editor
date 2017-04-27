@@ -1,0 +1,14 @@
+{
+    "menu": {
+        "header": "SVG Viewer", 
+        "items": [
+            {
+                "id": "Open"
+            }, 
+            {
+                "Hello": "Bye"
+            }
+        ], 
+        "Name": "Erin"
+    }
+}
